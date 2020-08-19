@@ -1,13 +1,10 @@
-# computing-work
+**MY PROFILE**
 
 
 
+-`,✎ 𝑓𝑎𝑙𝑙𝑎𝑐𝑒
 
 
-
-
-
-**fallace**
 
 **first attempt at trying out markdown for viewers to see when they view my page !**
 
