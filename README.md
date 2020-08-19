@@ -1,14 +1,8 @@
-**MY PROFILE**
+ABOUT ME
 
 
 
 -`,✎ 𝑓𝑎𝑙𝑙𝑎𝑐𝑒
-
-
-
-**first attempt at trying out markdown for viewers to see when they view my page !**
-
-
 
 +.*.｡ 𝐝𝐮𝐧𝐦𝐚𝐧 𝐡𝐢𝐠𝐡 𝐬𝐜𝐡𝐨𝐨𝐥 
   
